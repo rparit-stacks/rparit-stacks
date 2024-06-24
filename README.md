@@ -20,10 +20,10 @@ I am a passionate learner and currently pursuing my BCA at IITM Institute of Inf
 
 ### Recent Projects
 
-- [CGPA Calculator](https://github.com/rparit-stacks/CGPA.cpp): A tool to calculate Cumulative Grade Point Average based on academic scores.
-- [Casino Game](https://github.com/rparit-stacks/Casino.cpp): Simulation of a casino-style game where players bet on numbers.
-- [Rock, Paper, Scissors Game](https://github.com/rparit-stacks/RockPaperSc.cpp): Implementation of the classic game against the computer.
-- [All-in-One Calculator](https://github.com/rparit-stacks/aioCalculator.cpp): A versatile calculator for various mathematical operations.
+- [CGPA Calculator](https://github.com/micro-projects/CGPA.cpp): A tool to calculate Cumulative Grade Point Average based on academic scores.
+- [Casino Game](https://github.com/micro-projects/Casino.cpp): Simulation of a casino-style game where players bet on numbers.
+- [Rock, Paper, Scissors Game](https://github.com/micro-projects/RockPaperSc.cpp): Implementation of the classic game against the computer.
+- [All-in-One Calculator](https://github.com/micro-projects/aioCalculator.cpp): A versatile calculator for various mathematical operations.
 
 ## Contact Me
 
