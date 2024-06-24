@@ -29,7 +29,7 @@ I am a passionate learner and currently pursuing my BCA at IITM Institute of Inf
 
 - 📧 Email: rohitparit1934@gmail.com.
 - 🔗 LinkedIn: [rparit1934](https://www.linkedin.com/in/rparit1934/)
-- ![image](https://github.com/rparit-stacks/rparit-stacks/assets/64303578/c175ff32-f003-4a7f-8fe9-792f7b38e7b3) Leetcode: [@rparit-stacks](https://leetcode.com/u/rparit-stacks/)
+- 🚀 Leetcode: [@rparit-stacks](https://leetcode.com/u/rparit-stacks/)
 
 Feel free to connect with me for collaborations, discussions on programming, or just to say hello!
 
