@@ -1,0 +1,296 @@
+
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="cache-control" content="no-cache"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="-1"><style type="text/css"></style>
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rohit PARit's Resume</title>
+    <link rel="stylesheet" href="styles.css">
+    <style type="text/css">
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+            background: #1c1c1e; 
+            transition: all 0.3s ease;
+        }
+
+        header {
+            text-align: center;
+            padding: 2rem;
+            background: #2c2c2e; 
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: #0a84ff; 
+        }
+
+        p {
+            margin: 0.5rem 0;
+        }
+
+        section {
+            padding: 2rem;
+            margin: 1rem 2rem;
+            background: #2c2c2e; 
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        h2 {
+            color: #e0e0e0;
+            font-size: 1.5rem;
+            border-bottom: 2px solid #0a84ff; 
+            padding-bottom: 0.5rem;
+        }
+
+        a {
+            color: #0a84ff; 
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #2c2c2e; 
+            color: #e0e0e0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        body {
+            animation: fadeIn 1s ease-in-out;
+        }
+
+        section {
+            position: relative;
+            overflow: hidden;
+        }
+
+        section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0) 100%);
+            animation: shine 2s infinite;
+        }
+
+        @keyframes shine {
+            0% {
+                left: -100%;
+            }
+            100% {
+                left: 100%;
+            }
+        }
+
+        .certificate-view {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1001;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .certificate-view img {
+            max-width: 90%;
+            max-height: 90%;
+            border: 2px solid #0a84ff;
+        }
+
+        .certificate-view .close-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: #0a84ff;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        .certificate-link {
+            display: block;
+            margin-top: 10px;
+            color: #0a84ff;
+            cursor: pointer;
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rohit PARit</h1>
+        <p>rohitparit1934@gmail.com | +91 9810167696 | Delhi</p>
+    </header>
+
+    <section class="education">
+        <h2>Education</h2>
+        <div>
+            <h3>Bachelor of Computer Applications (BCA)</h3>
+            <p>Guru Gobind Singh Indraprastha University | 2022 - 2025</p>
+            <p>
+                Achieved consistent academic excellence with a focus on software development and data structures, maintaining a high GPA throughout the program. 
+                Engaged in collaborative projects that enhanced problem-solving skills and teamwork.
+            </p>
+        </div>
+        <div>
+            <h3>Senior Secondary (XII), Commerce</h3>
+            <p>Preet Public Sec School, East Delhi (CBSE) | 2022 | Percentage: 69.09%</p>
+            <p>
+                Developed a strong foundation in business studies and economics, with coursework that included financial accounting and business management. 
+                Actively participated in extracurricular activities, enhancing leadership and organizational skills.
+            </p>
+        </div>
+        <div>
+            <h3>Secondary (X)</h3>
+            <p>Preet Public Sr. Sec School (CBSE) | 2020 | Percentage: 70.00%</p>
+            <p>
+                Demonstrated proficiency in core subjects with a solid academic record, particularly in mathematics and science. 
+                Received recognition for academic achievements and participation in school events.
+            </p>
+        </div>
+    </section>
+
+    <section class="trainings">
+        <h2>Trainings</h2>
+        <div>
+            <h3>Programming With C And C++</h3>
+            <p>Internshala Trainings, Online | Jul 2024</p>
+            <p>
+                Successfully completed an intensive 8-week certified training program, acquiring expertise in C and C++ programming. 
+                Covered advanced topics such as object-oriented programming, AI integration, and application development. 
+                Achieved a commendable score of 73% in the final assessment, reflecting strong understanding and application of concepts.
+            </p>
+            <span class="certificate-link" onclick="showCertificate('certificate1')">View Certificate</span>
+        </div>
+        <div>
+            <h3>C++ Programming And DSA</h3>
+            <p>PHYSICS WALLAH, Online | Nov 2023 - Present</p>
+            <p>
+                Engaged in advanced coursework on C++ programming and data structures, focusing on algorithm optimization and efficient coding practices. 
+                Participated in coding challenges and peer reviews to enhance coding skills and collaborative problem-solving.
+            </p>
+            <span class="certificate-link" onclick="showCertificate('certificate2')">View Certificate</span>
+        </div>
+        <div>
+            <h3>Programming With C And C++</h3>
+            <p>Skill India | N.S.D.C | Date</p>
+            <p>
+                Successfully completed a certified training program under Skill India and N.S.D.C. 
+                Acquired comprehensive skills in C and C++ programming, focusing on practical applications and industry standards.
+            </p>
+            <span class="certificate-link" onclick="showCertificate('certificate3')">View Certificate</span>
+        </div>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <div>
+            <h3>GullyCricket</h3>
+            <p>Jul 2024 - Present</p>
+            <p>
+                Developed a virtual cricket game using C++, showcasing skills in game development and object-oriented programming. 
+                Implemented features such as player statistics, scoring systems, and interactive gameplay mechanics.
+            </p>
+            <a href="https://github.com/rparit-stacks/micro-projects/blob/main/gullyCricket.cpp">GitHub Link</a>
+        </div>
+        <div>
+            <h3>Various MicroProjects</h3>
+            <p>Jun 2024 - Present</p>
+            <p>
+                Contributed to multiple micro-projects aimed at solving real-world problems using C++. 
+                Focused on applications in data analysis and automation.
+            </p>
+            <a href="https://github.com/rparit-stacks/micro-projects">GitHub Link</a>
+        </div>
+        <div>
+            <h3>Virtual Cricket Games</h3>
+            <p>Jul 2024 - Present</p>
+            <p>
+                Created interactive and engaging virtual cricket games, demonstrating proficiency in game logic and user interface design. 
+                Focused on user experience and feedback to enhance gameplay.
+            </p>
+            <a href="https://github.com/rparit-stacks/micro-projects/blob/main/VirtualCricketGame/virtualCricketgame.cpp">GitHub Link</a>
+        </div>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <p><strong>C++ Programming (Advanced)</strong>: Expertise in developing efficient and scalable software applications, with a strong grasp of object-oriented principles.</p>
+        <p><strong>Data Structures (Intermediate)</strong>: Solid understanding of data structures and algorithms for optimized performance, capable of implementing complex data management solutions.</p>
+        <p><strong>C Programming (Advanced)</strong>: Proficient in procedural programming and system-level development, with experience in developing applications that require low-level memory management.</p>
+    </section>
+
+    <section class="work-samples">
+        <h2>Work Samples</h2>
+        <p><strong>GitHub</strong>: <a href="https://github.com/rparit-stacks">https://github.com/rparit-stacks</a></p>
+        <p><strong>LeetCode</strong>: <a href="https://leetcode.com/u/rparit-stacks/">https://leetcode.com/u/rparit-stacks/</a></p>
+    </section>
+
+    <div class="certificate-view" id="certificate1">
+        <button class="close-btn" onclick="hideCertificate('certificate1')">Close</button>
+        <img src="https://i.ibb.co/XCjJppb/Programming-with-C-and-C-Training-Certificate-of-Completion-1.jpg" alt="Programming With C And C++ Certificate">
+    </div>
+
+    <div class="certificate-view" id="certificate2">
+        <button class="close-btn" onclick="hideCertificate('certificate2')">Close</button>
+        <img src="https://i.ibb.co/7W1ZgWG/210f5268-7cfb-4eff-9dcb-59fb5a78cbaa.png" alt="C++ Programming And DSA Certificate">
+    </div>
+
+    <div class="certificate-view" id="certificate3">
+        <button class="close-btn" onclick="hideCertificate('certificate3')">Close</button>
+        <img src="https://i.ibb.co/Ph2jJm2/CAN-32394901-4219480-1.jpg" alt="Programming With C And C++ Skill India Certificate">
+    </div>
+
+  
+
+    <script>
+        function showCertificate(id) {
+            document.getElementById(id).style.display = 'flex';
+        }
+
+        function hideCertificate(id) {
+            document.getElementById(id).style.display = 'none';
+        }
+    </script>
+
+
+<script></script></body>
