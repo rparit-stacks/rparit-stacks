@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a BCA student at IITM Institute of Information
 ## 🎓 Education
 - **Degree**: Bachelor of Computer Applications (BCA)
 - **Institute**: IITM Institute of Information Technology and Management
-- **Status**: Currently pursuing
+- **Status**: Completed June 2025
 - **Interests**: Software Development, Data Structures, Algorithms, C++, Java
 
 ## 🧑‍💻 What I'm Working On
