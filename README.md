@@ -1,109 +1,291 @@
-# 👋 Namaste! I'm Rohit Parit 🙏
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Rohit Parit
 
-Welcome to my GitHub profile! I'm a BCA student at IITM Institute of Information Technology and Management with a passion for software development and problem-solving. My focus lies in building applications that solve real-world challenges and exploring new technologies to enhance my skills.
-
----
-
-## 🎓 Education
-- **Degree**: Bachelor of Computer Applications (BCA)
-- **Institute**: IITM Institute of Information Technology and Management
-- **Status**: Completed June 2025
-- **Interests**: Software Development, Data Structures, Algorithms, C++, Java
-
-## 🧑‍💻 What I'm Working On
-- **Learning**: Deep dive into Data Structures and Algorithms with C++ and Java.
-- **Projects**: Implementing small-scale projects to apply programming skills effectively.
-- **Skills Enhancement**: Continuously improving through online courses and hands-on practice.
-
----
-
-## 📊 GitHub Stats
-<div align="center" style="background: #E0E5EC; border-radius: 12px; padding: 20px; box-shadow: 10px 10px 20px #bebebe, -10px -10px 20px #ffffff;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rparit-stacks&show_icons=true&theme=graywhite&count_private=true" alt="Rohit's GitHub Stats" height="200px" style="border-radius: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rparit-stacks&theme=graywhite" alt="Rohit's GitHub Streak" height="200px" style="border-radius: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rparit-stacks&layout=compact&theme=graywhite" alt="Rohit's Most Used Languages" height="200px" style="border-radius: 10px;"/>
-</div>
-
----
-
-## 🌐 Contribution Graph
-<div align="center" style="background: #E0E5EC; border-radius: 12px; padding: 20px; box-shadow: 10px 10px 20px #bebebe, -10px -10px 20px #ffffff;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rparit-stacks&theme=react-dark&bg_color=E0E5EC&color=333333&line=6A0572&point=6A0572&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 10px;"/>
-</div>
-
----
-
-## 🔨 Projects
-### Recent Highlights
-- **CGPA Calculator**: A simple yet powerful tool to calculate your Cumulative Grade Point Average based on academic scores. Ideal for students looking to keep track of their performance.
-- **Casino Game**: A fun simulation of casino-style betting where players wager on numbers. A great example of probability and game logic in action.
-- **Rock, Paper, Scissors Game**: The classic hand game implemented with a computer opponent. Test your luck and strategy against a virtual rival!
-- **All-in-One Calculator**: A versatile calculator that goes beyond basic operations, offering advanced mathematical functionalities.
-
----
-
-## 📚 Repositories
-### Explore My Work
-Each repository showcases a unique set of skills and focuses on different aspects of programming, from basic principles to advanced algorithms.
-
-| Repository Name                           | Description                                                                                   | Shortcut                                          |
-|-------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------|
-| **Decode-cpp**                            | A comprehensive collection of C++ code snippets and examples that explore basic to advanced programming concepts. Perfect for beginners and advanced learners alike. | [Decode-cpp](https://github.com/rparit-stacks/Decode-cpp) |
-| **micro-projects**                        | A series of small-scale coding projects that demonstrate fundamental programming skills, designed to enhance practical understanding. | [micro-projects](https://github.com/rparit-stacks/micro-projects) |
-| **CodeSoft**                              | Software development projects aimed at solving real-world problems with innovative solutions and clean code practices. | [CodeSoft](https://github.com/rparit-stacks/CodeSoft) |
-| **Internship**                            | A repository showcasing my work done during internships, highlighting practical applications of programming and project management skills. | [Internship](https://github.com/rparit-stacks/Internship) |
-| **rparit-stacks**                         | Personal configurations, scripts, and code samples for various utilities, making life easier with automation and tools. | [rparit-stacks](https://github.com/rparit-stacks/rparit-stacks) |
-| **Decode-Java**                           | A rich collection of Java code snippets that explore a wide range of programming paradigms, from object-oriented to functional programming. | [Decode-Java](https://github.com/rparit-stacks/Decode-Java) |
-| **PW-ASSIGNMENT**                         | Academic assignments and coursework projects that demonstrate theoretical concepts applied in practical scenarios. | [PW-ASSIGNMENT](https://github.com/rparit-stacks/PW-ASSIGNMENT) |
-| **Global-Trend**                          | Projects that analyze and visualize global trends using data analysis tools and programming, aimed at uncovering insights from complex datasets. | [Global-Trend](https://github.com/rparit-stacks/Global-Trend) |
-| **LeetCode**                              | My solutions to LeetCode problems focusing on algorithmic challenges and competitive coding. An excellent resource for anyone preparing for coding interviews. | [LeetCode](https://github.com/rparit-stacks/LeetCode) |
-| **CodeAlpha**                             | A space for experimental coding projects and prototypes, pushing the boundaries of conventional programming techniques. | [CodeAlpha](https://github.com/rparit-stacks/CodeAlpha) |
-| **Data-Structures-and-Algorithms-in-cpp** | A comprehensive guide to Data Structures and Algorithms implemented in C++, covering the core concepts needed for any aspiring developer. | [Data-Structures-and-Algorithms-in-cpp](https://github.com/amritansh22/Data-Structures-and-Algorithms-in-cpp) |
-| **chromium**                              | A deep dive into the Chromium browser's codebase, exploring custom modifications and experiments to enhance browser capabilities. | [chromium](https://github.com/rparit-stacks/chromium) |
-
----
-
-## 📌 Pinned Repositories
-<div align="center" style="background: #E0E5EC; border-radius: 12px; padding: 10px; box-shadow: 10px 10px 20px #bebebe, -10px -10px 20px #ffffff;">
-  <a href="https://github.com/rparit-stacks/Decode-cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rparit-stacks&repo=Decode-cpp&theme=graywhite" alt="Decode-cpp" style="box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff; border-radius: 10px;"/>
-  </a>
-  <a href="https://github.com/rparit-stacks/micro-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rparit-stacks&repo=micro-projects&theme=graywhite" alt="Micro-projects" style="box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff; border-radius: 10px;"/>
-  </a>
-  <a href="https://github.com/rparit-stacks/CodeSoft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rparit-stacks&repo=CodeSoft&theme=graywhite" alt="CodeSoft" style="box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff; border-radius: 10px;"/>
-  </a>
-  <a href="https://github.com/rparit-stacks/Internship">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rparit-stacks&repo=Internship&theme=graywhite" alt="Internship" style="box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff; border-radius: 10px;"/>
-  </a>
-  <a href="https://github.com/rparit-stacks/Decode-Java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rparit-stacks&repo=Decode-Java&theme=graywhite" alt="Decode-Java" style="box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff; border-radius: 10px;"/>
-  </a>
-  <a href="https://github.com/rparit-stacks/PW-ASSIGNMENT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rparit-stacks&repo=PW-ASSIGNMENT&theme=graywhite" alt="PW-ASSIGNMENT" style="box-shadow: 5px 5px 15px #bebebe, -5px -5px 15px #ffffff; border-radius: 10px;"/>
-  </a>
-</div>
-
----
-
-## 🌐 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/rparit1934">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="box-shadow: 3px 3px 8px #bebebe, -3px -3px 8px #ffffff; border-radius: 8px;"/>
-  </a>
-  <a href="https://twitter.com/rparit1934">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="box-shadow: 3px 3px 8px #bebebe, -3px -3px 8px #ffffff; border-radius: 8px;"/>
-  </a>
-  <a href="https://discord.com/users/rparit1934">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="box-shadow: 3px 3px 8px #bebebe, -3px -3px 8px #ffffff; border-radius: 8px;"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC1934">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="box-shadow: 3px 3px 8px #bebebe, -3px -3px 8px #ffffff; border-radius: 8px;"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Java+Expert;Spring+Boot+%7C+Microservices;RESTful+APIs+%7C+Database+Architect;Problem+Solver+%7C+Code+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=rparit-stacks&style=for-the-badge&color=0366d6)](https://github.com/rparit-stacks)
+  [![GitHub followers](https://img.shields.io/github/followers/rparit-stacks?style=for-the-badge&color=0366d6)](https://github.com/rparit-stacks?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/rparit-stacks?style=for-the-badge&color=0366d6)](https://github.com/rparit-stacks)
+  
 </div>
 
 ---
 
-_Developed and maintained by Rohit Parit_
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+
+```java
+public class RohitParit {
+    private String role = "Backend Developer";
+    private String[] languages = {"Java", "C++", "SQL"};
+    private String[] frameworks = {"Spring Boot", "Spring MVC"};
+    private String location = "New Delhi, India";
+    private boolean hireable = true;
+    
+    public void getCurrentStatus() {
+        System.out.println("🎓 Pursuing MCA at Manipal University");
+        System.out.println("💼 Ex-SDE at Bluestock Fintech");
+        System.out.println("🚀 Building scalable backend systems");
+        System.out.println("🌱 Learning Microservices & Cloud");
+    }
+}
+```
+
+<br>
+
+### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Quick Facts
+
+- 🔭 Currently working on **Microservices Architecture** and **Cloud Integration**
+- 🌱 Learning **Kubernetes**, **Docker**, and **AWS**
+- 👯 Open to collaborate on **Backend Projects** and **Open Source**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, Database Design**
+- 📫 Reach me: **rohitparit1934@gmail.com**
+- ⚡ Fun fact: I debug with `System.out.println()` like a pro! 😄
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack & Tools
+
+<div align="center">
+
+### Programming Languages
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Databases & Cloud
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,cpp,git,docker,postman,maven,idea,linux&theme=dark" />
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Featured Projects
+
+<div align="center">
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"> Backend Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌤️ Weather Application
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9c5-cc4aa847be99.gif" width="400">
+
+**Spring Boot REST API for real-time weather**
+- ✅ Multi-day forecasts
+- ✅ Location-based data
+- ✅ Clean architecture
+- ✅ JUnit testing
+
+**Tech:** `Java 21` `Spring Boot 3.5.4` `REST API` `Maven`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/weather-app)
+
+</td>
+<td width="50%">
+
+### 📰 News Aggregation API  
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a7d.gif" width="400">
+
+**RESTful news service with filtering**
+- ✅ External API integration  
+- ✅ Topic-based filtering
+- ✅ Layered architecture
+- ✅ RestTemplate usage
+
+**Tech:** `Spring Boot` `REST API` `Lombok` `DTO Pattern`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/news-app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 Garage Management System
+<img src="https://user-images.githubusercontent.com/74038190/212284152-c7b0857b-809e-4914-a5c4-043ce9d05e5f.gif" width="400">
+
+**Complete garage operations platform**
+- ✅ Client & vehicle management
+- ✅ Service catalog system  
+- ✅ Invoice generation
+- ✅ MySQL integration
+
+**Tech:** `Java` `MySQL` `JDBC` `Console App`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/garage-management)
+
+</td>
+<td width="50%">
+
+### 🔐 Authentication Service
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd0-a0da-cb94a9c7aaa6.gif" width="400">
+
+**JWT-based authentication system**
+- ✅ JWT token generation
+- ✅ Role-based access
+- ✅ Password encryption  
+- ✅ Session management
+
+**Tech:** `Spring Security` `JWT` `BCrypt` `MySQL`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/auth-service)
+
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rparit-stacks&theme=tokyonight&hide_border=true&stroke=0366d6&background=0D1117&ring=0366d6&fire=0366d6&currStreakLabel=0366d6" alt="GitHub Streak" />
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rparit-stacks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0366d6&icon_color=0366d6&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rparit-stacks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0366d6&text_color=ffffff"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rparit-stacks&theme=tokyo-night&bg_color=0D1117&color=0366d6&line=0366d6&point=ffffff&hide_border=true" alt="Activity Graph" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rparit-stacks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276c709b-f8c8-43c4-9a65-4a5d8c7f4a3f.png" width="30" /> Experience & Certifications
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+
+### 💼 **Professional Experience**
+
+**🚀 Software Development Engineer (SDE)**  
+*Bluestock Fintech* | *May 2025 – July 2025*
+- Developed production-ready RESTful APIs
+- Worked with fintech domain applications
+- Implemented scalable backend solutions
+
+**👨‍💻 C++ Programming & DSA**  
+*Physics Wallah* | *Nov 2023 – Present*
+- Advanced algorithm implementations
+- Data structures optimization
+- Competitive programming
+
+### 🏆 **Certifications**
+
+- 🥇 **GeeksforGeeks Java Backend Development** (2024)
+- 🥇 **Programming with C and C++** - Internshala (73% Score)
+- 🥇 **Java Programming** - Certified
+- 🥇 **Core Java** - Certified
+- 🥇 **C++ and DSA** - Physics Wallah
+
+### 🎓 **Education**
+
+**Master of Computer Applications (MCA)**  
+*Manipal University Jaipur* | *2025 – 2027*
+
+**Bachelor of Computer Applications (BCA)**  
+*IITM Institute* | *2022 – 2025*
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c4fbf2c1-37e5-4b87-b0eb-d82408bdb5b5.png" width="30" /> Connect With Me
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-944e4d2a-8d5e-4162-8a4f-d86952c5679a.gif" width="400">
+</div>
+
+<div align="center">
+
+### 🤝 **Let's Build Something Amazing Together!**
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitparit1934@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rparit1934)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rparit-stacks.github.io/rparit-stacks)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/rparit-stacks/)
+
+</div>
+
+### 💼 **Open For:**
+- 🚀 **Full-time Backend Developer** opportunities
+- 💡 **Freelance Java/Spring Boot** projects
+- 🤝 **Open source** collaborations
+- 📚 **Technical mentoring** & code reviews
+- 🏦 **Fintech & startup** opportunities
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+  
+  ### Thanks for visiting! ⭐ Star my repos if you find them helpful!
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30">
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%9A%80;Let's+Build+The+Future+Together!+%F0%9F%8C%9F;Thanks+For+Visiting!+%E2%9C%A8" alt="Footer Typing SVG" />
+</div>
