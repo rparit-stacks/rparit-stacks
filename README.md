@@ -111,27 +111,62 @@ public class RohitParit {
 <tr>
 <td width="50%">
 
-### 🌤️ Weather Application
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9c5-cc4aa847be99.gif" width="400">
+### 🎬 Eventura – Movie Ticketing Backend
+<img src="https://user-images.githubusercontent.com/74038190/214567890-7f9f0c8b-2e57-4f0e-a64f-94c42e7f3c7a.gif" width="400">
 
-**Spring Boot REST API for real-time weather**
-- ✅ Multi-day forecasts
-- ✅ Location-based data
-- ✅ Clean architecture
-- ✅ JUnit testing
+**Backend for a movie ticketing system**
+- ✅ User, Movie, Theater, Screen, Seat, Show, Booking, Payment management
+- ✅ Booking flow with seat validation & transactional safety
+- ✅ Optimistic locking to avoid concurrent seat conflicts
+- ✅ Secure password hashing & global error handling
 
-**Tech:** `Java 21` `Spring Boot 3.5.4` `REST API` `Maven`
+**Tech:** `Java 21` `Spring Boot 3.5` `Spring Data JPA` `MySQL` `Hibernate ORM` `BCrypt`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/weather-app)
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/Eventura)
 
 </td>
 <td width="50%">
 
-### 📰 News Aggregation API  
+### 📝 FormFree – Dynamic Form Submission API
+<img src="https://user-images.githubusercontent.com/74038190/214567902-4b0ef048-d2b7-49ea-90eb-8a053f1f0c3a.gif" width="400">
+
+**Spring Boot API for dynamic form submissions**
+- ✅ Project creation with unique API keys
+- ✅ Secure form data handling
+- ✅ Retrieve submissions programmatically
+- ✅ Streamlined data collection with JSON handling
+
+**Tech:** `Java 17` `Spring Boot` `Maven` `Gson`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/formFree)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Portfolio Backend
+<img src="https://user-images.githubusercontent.com/74038190/214567910-8df8b6cd-5642-4d9b-b3ab-452a7a3f5f69.gif" width="400">
+
+**Backend for portfolio projects**
+- ✅ Centralized data for portfolio projects
+- ✅ REST APIs to fetch projects, blogs, skills, and contact info
+- ✅ Clean architecture for easy integration
+- ✅ JSON responses for frontend consumption
+
+**Tech:** `Java` `Spring Boot` `Maven` `REST API`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/portfolio-backend)
+
+</td>
+<td width="50%">
+
+### 📰 News Aggregation API
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a7d.gif" width="400">
 
 **RESTful news service with filtering**
-- ✅ External API integration  
+- ✅ External API integration
 - ✅ Topic-based filtering
 - ✅ Layered architecture
 - ✅ RestTemplate usage
@@ -142,42 +177,8 @@ public class RohitParit {
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-### 🚗 Garage Management System
-<img src="https://user-images.githubusercontent.com/74038190/212284152-c7b0857b-809e-4914-a5c4-043ce9d05e5f.gif" width="400">
-
-**Complete garage operations platform**
-- ✅ Client & vehicle management
-- ✅ Service catalog system  
-- ✅ Invoice generation
-- ✅ MySQL integration
-
-**Tech:** `Java` `MySQL` `JDBC` `Console App`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/garage-management)
-
-</td>
-<td width="50%">
-
-### 🔐 Authentication Service
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd0-a0da-cb94a9c7aaa6.gif" width="400">
-
-**JWT-based authentication system**
-- ✅ JWT token generation
-- ✅ Role-based access
-- ✅ Password encryption  
-- ✅ Session management
-
-**Tech:** `Spring Security` `JWT` `BCrypt` `MySQL`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-0366d6?style=for-the-badge&logo=github)](https://github.com/rparit-stacks/auth-service)
-
-</td>
-</tr>
 </table>
+
 
 ---
 
