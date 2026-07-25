@@ -1,60 +1,198 @@
-<h1 align="center">
-  Rohit Parit
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
+<!-- ============================================================
+  Rohit Parit · GitHub Profile README
+  Username: rparit-stacks
+============================================================ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rohit+Parit+%F0%9F%91%8B;Backend+Developer+%C2%B7+Java+%26+Spring+Boot;Building+scalable+APIs+%26+systems;202+LeetCode+problems+solved" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/rparit1934">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rohitparit1934@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/rparit-stacks/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://rohit-parit-portfolio.codvertex.in/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/rparit-stacks">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 <p align="center">
-  <b>Backend Developer</b> · Java · Spring Boot · Microservices<br>
-  <i>Building scalable, production-grade backend systems & REST APIs</i>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rparit1934"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:rohitparit1934@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/rparit-stacks/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://rparit-stacks.github.io/rparit-stacks"><img src="https://img.shields.io/badge/Portfolio-2b2b2b?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rparit-stacks&style=flat&color=0366d6&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=rparit-stacks&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rparit-stacks?style=flat-square&label=Followers&color=238636" alt="Followers" />
+  <img src="https://img.shields.io/badge/Hireable-Yes-success?style=flat-square" alt="Hireable" />
+  <img src="https://img.shields.io/badge/Open%20to-Backend%20Roles-58A6FF?style=flat-square" alt="Open to roles" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## About me
 
 ```java
 public class RohitParit {
-    String role        = "Backend Developer";
-    String[] languages = {"Java", "C++", "SQL"};
-    String[] stack     = {"Spring Boot", "Spring Security", "JPA", "Microservices"};
-    String location    = "Delhi, India";
-    boolean  hireable   = true;
+    String role          = "Backend Developer";
+    String education     = "MCA @ Manipal University Jaipur (Expected 2027)";
+    String[] languages   = {"Java", "C++", "SQL"};
+    String[] stack       = {"Spring Boot", "Spring Security", "JPA", "Microservices", "PostgreSQL"};
+    String focus         = "Scalable APIs · System Design · Cloud";
+    boolean hireable     = true;
 
-    void currentFocus() {
-        System.out.println("🏦 Bank of Maharashtra backend migration (PHP → Java)");
-        System.out.println("🚀 Building scalable e-commerce & quick-commerce systems");
-        System.out.println("🌱 Deepening Microservices, Kafka & AWS");
+    void currently() {
+        System.out.println("Bank of Maharashtra backend migration (PHP → Java/Spring Boot)");
+        System.out.println("E-commerce & quick-commerce platforms at production scale");
+        System.out.println("Deepening Kafka, Kubernetes & AWS");
     }
 }
 ```
 
-- 🔭 Currently: **Freelance Backend Developer @ Debound India**
-- 🌱 Learning **Kubernetes**, **Kafka**, and **AWS** (EC2, S3, RDS, Lambda)
-- 💬 Ask me about **Java, Spring Boot, REST APIs, System Design, DBMS**
-- 🧩 **160+** problems solved on LeetCode
-- 📫 **rohitparit1934@gmail.com** · +91-9810167696
+- Freelance Backend Developer at **Debound India** — Bank of Maharashtra migration, JWT/RBAC modules, AI machinery backend
+- Previously built the full e-commerce backend for **Studio Sara** (payments, orders, admin CMS)
+- **202** LeetCode problems solved · ranking ~817k · Easy 103 · Medium 84 · Hard 15
+- Reach me at **rohitparit1934@gmail.com** · [+91-9810167696](tel:+919810167696)
 
 ---
 
-### 🛠️ Tech Stack
+## GitHub metrics
+
+> Live dashboard via [`lowlighter/metrics`](https://github.com/lowlighter/metrics) · timezone `Asia/Kolkata` · Action also commits `github-metrics.svg` daily
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/rparit-stacks?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&habits=1&habits.charts=1&isocalendar=1&isocalendar.duration=full-year&topics=1&topics.mode=icons&achievements=1&achievements.display=compact&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" width="100%" />
+</div>
+
+<details>
+<summary><b>Action-rendered copy</b> (committed by the Metrics workflow)</summary>
+<br>
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics (Action)" width="100%" />
+</div>
+</details>
+
+---
+
+## LeetCode
+
+<div align="center">
+  <a href="https://leetcode.com/u/rparit-stacks/">
+    <img src="https://leetcard.jacoblin.cool/rparit-stacks?theme=dark&font=Karma&ext=heatmap&border=0&radius=12" alt="LeetCode Stats Card" />
+  </a>
+</div>
+
+| Platform | Handle | Solved |
+| --- | --- | --- |
+| [LeetCode](https://leetcode.com/u/rparit-stacks/) | `rparit-stacks` | **202** (103 Easy · 84 Medium · 15 Hard) |
+
+<details>
+<summary><b>Metrics LeetCode plugin</b> (generated by GitHub Action)</summary>
+<br>
+<div align="center">
+  <img src="./metrics.plugin.leetcode.svg" alt="LeetCode Metrics Plugin" width="100%" />
+</div>
+</details>
+
+---
+
+## Experience
+
+### Debound India · Freelance Backend Developer
+**Nov 2025 – Present** · India  
+`Java` · `Spring Boot` · `JPA` · `REST APIs` · `JWT` · `PostgreSQL`
+
+- Contributing to the **Bank of Maharashtra** backend migration (PHP → Java / Spring Boot)
+- Built and maintained **2** backend modules with JWT auth, RBAC, and PostgreSQL access control
+- Optimized API performance through database design and query tuning
+- Developed backend components for an AI-powered machinery solution (SDLC collaboration)
+
+### Studio Sara · Freelance Backend Developer
+**Jan 2026 – Mar 2026** · Remote  
+`Spring Boot` · `REST APIs` · `MySQL`
+
+- Designed and shipped the complete e-commerce backend
+- Integrated secure payment gateway and order-processing workflows
+- Built admin CMS for products, inventory, orders, and users
+- Tuned API latency and MySQL queries for scalable operations
+
+---
+
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rparit-stacks/sara-ecom">E-Commerce Platform</a></h3>
+      <p>
+        Full-stack storefront with JWT auth, payment gateway, GST invoicing, and admin CMS for products & orders.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/rparit-stacks/sara-ecom">Backend</a> ·
+        <a href="https://github.com/rparit-stacks/sara-frontend-ecom">Frontend</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rparit-stacks/blinkit-clone">Quick-Commerce Platform</a></h3>
+      <p>
+        Blinkit-style quick commerce with cart, real-time order tracking, inventory, delivery workflow, and high-throughput APIs.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST-02569B?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/rparit-stacks/blinkit-clone">API</a> ·
+        <a href="https://github.com/rparit-stacks/blinkit-clone-frontend-user">User</a> ·
+        <a href="https://github.com/rparit-stacks/blinkit-clone-admin">Admin</a> ·
+        <a href="https://github.com/rparit-stacks/blinkit-clone-delivery">Delivery</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rparit-stacks/book-store">Book Store</a></h3>
+      <p>Java Spring bookstore backend with catalog, cart, and order flows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rparit-stacks/Zorvyn">Zorvyn</a></h3>
+      <p>Production-oriented Java backend service exploring modular domain APIs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech stack
 
 **Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend & Frameworks**  
+**Backend**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -62,7 +200,7 @@ public class RohitParit {
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-**Databases**  
+**Data**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -76,69 +214,69 @@ public class RohitParit {
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Testing & Tools**  
+**Tools**  
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,mysql,postgres,mongodb,redis,kafka,docker,kubernetes,aws,jenkins,nginx,git,postman,gradle,idea,linux,react,ts" alt="Skill icons" />
+</p>
+
+---
+
+## Education
+
+| Degree | Institution | Period |
+| --- | --- | --- |
+| **MCA** — Master of Computer Applications | Manipal University Jaipur | Expected 2027 |
+| **BCA** — Bachelor of Computer Applications | Guru Gobind Singh Indraprastha University, Delhi | July 2025 |
+
+---
+
+## More analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rparit-stacks&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rparit-stacks&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=58A6FF" alt="Top Languages" />
+</div>
+
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,redis,kafka,docker,kubernetes,aws,jenkins,nginx,git,postman,gradle,idea,linux,cpp" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rparit-stacks&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rparit-stacks&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+</div>
+
+<details>
+<summary><b>Portfolio PageSpeed</b> (generated by Metrics Action)</summary>
+<br>
+<div align="center">
+  <img src="./metrics.plugin.pagespeed.svg" alt="PageSpeed Insights" width="100%" />
+</div>
+</details>
 
 ---
 
-### 💼 Experience
+## Achievements
 
-**🏦 Freelance Backend Developer** — *Debound India* · Nov 2025 – Present  
-Contributing to the **Bank of Maharashtra** backend migration (PHP → Java) using Spring Boot, JPA & REST APIs. Built modules with JWT auth, RBAC, and PostgreSQL-based access control; optimized API performance via efficient DB design. Also developed backend components for an AI-powered machinery solution.  
-`Java` · `Spring Boot` · `JPA` · `REST APIs` · `JWT` · `PostgreSQL`
-
-**🛍️ Freelance Backend Developer** — *Studio Sara* · Jan 2026 – Mar 2026  
-Designed and built a complete e-commerce backend with secure payment gateway integration, order processing workflows, and admin CMS modules for product, inventory, order & user management.  
-`Spring Boot` · `REST APIs` · `MySQL`
+- Solved **202** LeetCode problems — strong DSA, OOP, and problem-solving practice
+- Multiple hackathons — teamwork, rapid prototyping, shipping under time pressure
+- Shipped production full-stack / backend systems with Spring Boot, REST, and SQL at scale
 
 ---
 
-### 🚀 Featured Projects
-
-**🛒 E-Commerce Platform** — [Repository](https://github.com/rparit-stacks)  
-Scalable full-stack platform with secure JWT auth, payment gateway integration, GST invoice generation, and an admin CMS for centralized product & order management.  
-`Spring Boot` · `React` · `MySQL` · `JWT`
-
-**⚡ Quick-Commerce Platform** — [Repository](https://github.com/rparit-stacks)  
-Cart management, real-time order tracking, and inventory handling with a delivery workflow and scalable backend APIs built for high-throughput order processing.  
-`Spring Boot` · `React` · `MySQL` · `REST APIs`
-
----
-
-### 🎓 Education
-
-**Master of Computer Applications (MCA)** — Manipal University Jaipur · Expected 2027  
-**Bachelor of Computer Applications (BCA)** — GGSIPU, Delhi · July 2025
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rparit-stacks&show_icons=true&hide_border=true&title_color=0366d6&icon_color=0366d6&count_private=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rparit-stacks&layout=compact&hide_border=true&title_color=0366d6&langs_count=8">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rparit-stacks&hide_border=true&stroke=0366d6&fire=0366d6&currStreakLabel=0366d6&ring=0366d6&sideNums=0366d6">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rparit-stacks&no-frame=true&no-bg=true&column=7&margin-w=4&title_color=0366d6">
-</p>
-
----
-
-<p align="center">
-  <b>⭐ Star my repos if you find them helpful!</b>
-</p>
+<div align="center">
+  <img src="https://quote-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <br><br>
+  <b>Building backends that scale · Open to backend / Java roles</b>
+  <br>
+  <sub>Metrics refresh daily · LeetCode synced as <code>rparit-stacks</code></sub>
+</div>
