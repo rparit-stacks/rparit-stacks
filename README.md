@@ -19,7 +19,7 @@
   <a href="https://leetcode.com/u/rparit-stacks/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://rohit-parit-portfolio.codvertex.in/">
+  <a href="https://rohitparit-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/rparit-stacks">
